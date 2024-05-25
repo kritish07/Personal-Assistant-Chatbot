@@ -1,28 +1,27 @@
 ## Personal Assistant Chatbot
-#### Introduction
+### Introduction
 The Personal Assistant Chatbot project is designed to provide a quick and efficient way to learn about a person's professional background by answering questions based on their resume. The system leverages advanced AI technologies to parse, understand, and respond to inquiries about the content of a resume.
 
 ### Prerequisites
-To use this project, you will need:
+To use this project, you will need: An OpenAI API key.
 
-### An OpenAI API key.
-#### Goal
+### Goal
 The goal of this project is to create an easy and efficient way for anyone to learn about skills, experience, and other professional details from a resume without having to read through the entire document.
 
 ### Dependencies
 The following Python packages are required for this project:
 
-* langchain: A framework for building applications with large language models.
-* openai: OpenAI's API for interacting with GPT models.
-* PyPDF2: A library for working with PDF files.
-* faiss-cpu: Facebook AI Similarity Search library for efficient similarity search.
-* tiktoken: A library for handling tokenization with OpenAI models.
-* langchain-openai: Integration between LangChain and OpenAI.
-* langchain_community: Additional community-contributed components for LangChain.
+**langchain:** A framework for building applications with large language models.
+**openai:** OpenAI's API for interacting with GPT models.
+**PyPDF2:** A library for working with PDF files.
+**faiss-cpu:** Facebook AI Similarity Search library for efficient similarity search.
+**tiktoken:** A library for handling tokenization with OpenAI models.
+**langchain-openai:** Integration between LangChain and OpenAI.
+**langchain_community:** Additional community-contributed components for LangChain.
 
 ### Benefits
-**Save Time**: Quickly get the information you need without searching through pages of text.
-**Easy Access**: Ask questions in plain language, just like conversing with a friend.
+**Save Time:** Quickly get the information you need without searching through pages of text.
+**Easy Access:** Ask questions in plain language, just like conversing with a friend.
 
 ### How It Works
 #### Key Components
