@@ -4,7 +4,7 @@
 The Personal Assistant Chatbot project is designed to provide a quick and efficient way to learn about a person's professional background by answering questions based on their resume. The system leverages advanced AI technologies to parse, understand, and respond to inquiries about the content of a resume.
 
 ### Prerequisites
-To use this project, you will need: An OpenAI API key.
+To use this project, you will need an OpenAI API key.
 
 ### Goal
 The goal of this project is to create an easy and efficient way for anyone to learn about skills, experience, and other professional details from a resume without having to read through the entire document.
